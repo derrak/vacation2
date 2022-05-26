@@ -1,3 +1,15 @@
 .blueflag {
   background-color: #1cadc1 !important;
 }
+
+#nameEconomy {
+  color:blue;
+}
+
+#textEconomy {
+  color:blueviolet;
+}
+
+#nameMiddle {
+  color:green;
+}
